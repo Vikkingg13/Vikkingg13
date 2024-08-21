@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Vikkingg13 (Grigoriev Viktor)
 - 👀 I’m interested in computer technologies and digital painting.
-- 🌱 I’m currently learning Spring Framework and Vue.js
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/viktor-grigoriev/) | [VK](https://vk.com/grigorieviktor)
 <!--- 💞️ I’m looking to collaborate on ... --->
 
